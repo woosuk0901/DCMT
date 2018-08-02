@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.1",
+    "crypto": "^1.0.1",
     "node-cardcrypto": "^1.0.2",
+    "npm": "^6.2.0",
     "pad": "^2.1.0"
   }
 }
